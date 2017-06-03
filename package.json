@@ -1,6 +1,6 @@
 {
   "name": "genrun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Its a Generator Runner Libraray",
   "main": "app.js",
   "scripts": {
