@@ -1,5 +1,21 @@
-# Generator Runner
-It help Generator to run
+# Generator Runner (genrun@1.0.0)  
+It help Generator to run  
+
+
+# Install  
+`npm install genrun`  
+or  
+`yarn add genrun`  
+
+# How To Use
+```    
+const gnrun = require('genrun')  // gnrun is a function takes generator method as perameter
+gnrun(function* main(){
+    // let doPromise = yield doPromise    
+})
+
+```
+
 
 
 #MIT License
