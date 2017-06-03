@@ -1,2 +1,2 @@
 # genrunner
-Its a Generator Runner Lib
+Its a Generator Runner library
