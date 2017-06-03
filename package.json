@@ -1,0 +1,22 @@
+{
+  "name": "genrunner",
+  "version": "1.0.0",
+  "description": "Its a Generator Runner Libraray",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitachyut/genrunner.git"
+  },
+  "keywords": [
+    "Generator"
+  ],
+  "author": "Achyut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitachyut/genrunner/issues"
+  },
+  "homepage": "https://github.com/gitachyut/genrunner#readme"
+}
